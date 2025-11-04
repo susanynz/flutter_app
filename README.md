@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# flutter_application_1
+# Hola mundo
 
 Proyecto 'Hola Mundo' para familiarización con entorno Flutter
 
