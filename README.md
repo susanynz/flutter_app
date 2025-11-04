@@ -1,11 +1,11 @@
 <<<<<<< HEAD
 # flutter_application_1
 
-A new Flutter project.
+Proyecto 'Hola Mundo' para familiarización con entorno Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto es el punto de partida para una  Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
